@@ -1,2 +1,2 @@
 # Blokus
-Blokus game for with desktop GUI using tkinter
+Blokus game with desktop GUI using tkinter
